@@ -1,5 +1,3 @@
-% datasetGenerationIQ_Final_2048Frames.m
-
 clc; clear; close all;
 
 %% Run options
